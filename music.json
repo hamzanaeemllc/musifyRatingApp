@@ -1,0 +1,58 @@
+[
+  {
+    "music_id": 1,
+    "music_name": "PLEVNE",
+    "music_desc": "PLEVNE IS A TURKISH MUSIC",
+    "music_rat": 5,
+    "music_img": "https://assets-global.website-files.com/636a9dd239b40c85b6e0a34f/64bfcec5d782953fa301b421_Phone%20mmusic.jpg"
+  },
+  {
+    "music_id": 2,
+    "music_name": "PAKISTAN ZINDABAD",
+    "music_desc": "AN ISPR SONG OF PAK NATION",
+    "music_rat": 3.5,
+    "music_img": "https://assets-global.website-files.com/636a9dd239b40c85b6e0a34f/64bfcec5d782953fa301b421_Phone%20mmusic.jpg"
+  },
+  {
+    "music_id": 3,
+    "music_name": "SUNSET MELODY",
+    "music_desc": "A RELAXING INSTRUMENTAL",
+    "music_rat": 4.2,
+    "music_img": "https://assets-global.website-files.com/636a9dd239b40c85b6e0a34f/64bfcec5d782953fa301b421_Phone%20mmusic.jpg"
+  },
+  {
+    "music_id": 4,
+    "music_name": "ELECTRIC DREAMS",
+    "music_desc": "UPBEAT ELECTRONIC MUSIC",
+    "music_rat": 4.8,
+    "music_img": "https://assets-global.website-files.com/636a9dd239b40c85b6e0a34f/64bfcec5d782953fa301b421_Phone%20mmusic.jpg"
+  },
+  {
+    "music_id": 5,
+    "music_name": "JAZZY NIGHTS",
+    "music_desc": "SMOOTH JAZZ FOR LATE NIGHTS",
+    "music_rat": 4.5,
+    "music_img": "https://assets-global.website-files.com/636a9dd239b40c85b6e0a34f/64bfcec5d782953fa301b421_Phone%20mmusic.jpg"
+  },
+  {
+    "music_id": 6,
+    "music_name": "MOONLIGHT SONATA",
+    "music_desc": "CLASSICAL MASTERPIECE",
+    "music_rat": 4.7,
+    "music_img": "https://assets-global.website-files.com/636a9dd239b40c85b6e0a34f/64bfcec5d782953fa301b421_Phone%20mmusic.jpg"
+  },
+  {
+    "music_id": 7,
+    "music_name": "ROCK REVOLUTION",
+    "music_desc": "ENERGETIC ROCK MUSIC",
+    "music_rat": 4.0,
+    "music_img": "https://assets-global.website-files.com/636a9dd239b40c85b6e0a34f/64bfcec5d782953fa301b421_Phone%20mmusic.jpg"
+  },
+  {
+    "music_id": 8,
+    "music_name": "CALM WATERS",
+    "music_desc": "SOOTHING AMBIENT MUSIC",
+    "music_rat": 4.6,
+    "music_img": "https://assets-global.website-files.com/636a9dd239b40c85b6e0a34f/64bfcec5d782953fa301b421_Phone%20mmusic.jpg"
+  }
+]
